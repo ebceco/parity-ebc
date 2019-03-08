@@ -114,7 +114,7 @@ path = "parity/lib.rs"
 
 [[bin]]
 path = "parity/main.rs"
-name = "parity"
+name = "parity-ebc"
 
 [profile.dev]
 
